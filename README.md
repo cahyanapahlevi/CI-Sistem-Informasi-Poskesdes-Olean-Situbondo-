@@ -1,4 +1,4 @@
-# Sistem-Infirmasi-Poskesdes-Olean-Situbondo-
+# Sistem-Informasi-Poskesdes-Olean-Situbondo-
 
 Proyek Sistem Informasi:
 
