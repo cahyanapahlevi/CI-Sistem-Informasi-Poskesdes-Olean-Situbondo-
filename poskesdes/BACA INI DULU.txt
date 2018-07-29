@@ -1,0 +1,7 @@
+cara masangnya sama dan cara akses:
+localhost/poskesdes (halaman awal)
+localhost/poskesdes/adminlogin (akses halaman admin)
+username dan pass:
+username: admin,password:admin(masuk halaman admin)
+username:kader,password:kader(masuk sebagai akun kader)
+username:bidan,password:bidan(masuk sebagai akun bidan)
